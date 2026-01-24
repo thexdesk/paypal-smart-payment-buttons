@@ -45,7 +45,7 @@
     "@paypal/sdk-constants": "^1.0.11",
     "belter": "^1.0.19",
     "cross-domain-utils": "^2.0.16",
-    "grabthar": "^3",
+    "grabthar": "^4.0.0",
     "jsx-pragmatic": "^2",
     "zalgo-promise": "^1.0.28"
   },
